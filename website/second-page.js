@@ -12,5 +12,5 @@ prev.addEventListener('click', function(){
 })
 
 function windoGame(){
-    window.open('game-page.html',"name","toobar=0,locationbar=0,width=1200px ,height=700px,left=500px,top=200px;");
+    window.open('game-page.html',"name","toobar=0,locationbar=0,width=1100px ,height=700px,left=500px,top=200px;");
 }
